@@ -100,3 +100,4 @@ setInterval(printQuote, 10000);
 ***/
 
 document.getElementById('load-quote').addEventListener("click", printQuote, false);
+//well hello there
